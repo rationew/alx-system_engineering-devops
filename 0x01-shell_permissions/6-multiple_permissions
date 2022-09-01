@@ -1,2 +1,2 @@
-#!/bin/bash
-chagrp 754 hello
+#!/bin/bas
+chmod 754 hello
