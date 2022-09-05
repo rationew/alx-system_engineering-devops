@@ -1,2 +1,2 @@
-#!/bin/bah
-echo "/"(0'0)' "
+#!/bin/bash
+touch Hello world
