@@ -1,2 +1,2 @@
 #!/bin/bash
-try | /etc/passwd
+try| /etc/passwd
